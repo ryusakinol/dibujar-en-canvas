@@ -1,0 +1,11 @@
+body{
+    background: black;
+    color: white;
+}
+canvas{
+    background: white;
+}
+
+div{
+    border: 1px solid black;
+}
