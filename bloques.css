@@ -1,10 +1,12 @@
 body{
     background: black;
     color: white;
+    align-content: center;
 }
 canvas{
     background: white;
-    width: 300 600;
+    width: 600;
+    height: 300;
 }
 
 div{
