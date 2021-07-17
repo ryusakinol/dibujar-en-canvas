@@ -4,8 +4,10 @@ body{
 }
 canvas{
     background: white;
+    width: 300 600;
 }
 
 div{
     border: 1px solid black;
+    padding: 5px solid red;
 }
